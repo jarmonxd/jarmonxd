@@ -11,6 +11,10 @@
   <a href="https://github.com/jarmonxd">GitHub</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jarmonxd&label=Profile%20views&color=38bdf8&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ## About Me
@@ -24,7 +28,7 @@
 
 ---
 
-## What I'm Learning
+## Currently Learning
 
 - Next.js and React
 - TypeScript
@@ -53,44 +57,19 @@
 
 ---
 
-## Profile
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jarmonxd&label=Profile%20views&color=38bdf8&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/jarmonxd?label=Followers&style=flat-square&color=38bdf8" alt="GitHub followers" />
-</p>
-
----
-
-## Projects
+## Featured Projects
 
 ### iWheelchair
-A smart wheelchair project created as a student project.  
-It explores different control methods such as joystick control, voice command, and eye-blink control.
+A student project about a smart wheelchair that explores different control methods, including joystick control, voice command, and eye-blink control.
+
+- Website: [iwheelchair.store](https://iwheelchair.store)
+- Tech focus: Web, robotics, accessibility, Raspberry Pi
 
 ### Personal Portfolio
-A small website for collecting my projects, experiments, and learning progress.  
-Visit: [mon.in.th](http://mon.in.th)
+A simple website for collecting my projects, experiments, and learning progress.
 
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jarmonxd&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" alt="Mon's GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarmonxd&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb" alt="Top Languages" />
-</p>
-
----
-
-## Contact
-
-- Portfolio: [mon.in.th](http://mon.in.th)
-- Email: [admin@mon.in.th](mailto:admin@mon.in.th)
-- GitHub: [jarmonxd](https://github.com/jarmonxd)
+- Website: [mon.in.th](http://mon.in.th)
+- Tech focus: Frontend, UI, personal branding
 
 ---
 
