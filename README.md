@@ -21,10 +21,19 @@
 
 - 🌍 Based in Thailand
 - 🎓 High school student interested in IT, software development, AI, and robotics
-- 💻 I mostly work with web development and small experimental projects
+- 💻 I mostly work on web development and small experimental projects
 - 🧠 I like thinking about systems, design, and how things work behind the scenes
 - 🌱 Currently learning more about full-stack development and AI integration
 - 🛠️ I enjoy building projects that are clean, practical, and easy to use
+
+---
+
+## My Coding Journey
+
+I started learning scripting around March 2024.  
+It began with curiosity, and over time I became more interested in web development, automation, AI tools, and robotics.
+
+I’m still learning through real projects, small experiments, and things I build along the way.
 
 ---
 
