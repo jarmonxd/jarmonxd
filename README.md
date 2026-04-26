@@ -69,7 +69,8 @@ I’m still learning through real projects, small experiments, and things I buil
 ## Featured Projects
 
 ### iWheelchair
-A student project about a smart wheelchair that explores different control methods, including joystick control, voice command, and eye-blink control.
+A student project focused on assistive technology and smart wheelchair control.  
+It explores different control methods, including joystick control, voice command, and eye-blink control.
 
 - Website: [iwheelchair.store](https://iwheelchair.store)
 - Tech focus: Web, robotics, accessibility, Raspberry Pi
